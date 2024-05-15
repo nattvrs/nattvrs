@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Oie nome é Natielle Vitória
+Oie, meu nome é Natielle Vitória
 
 -Estou estudando pelo alura
 
