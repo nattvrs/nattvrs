@@ -3,6 +3,7 @@
 Meu nome é Natielle Vitória
 
 -Estou estudando pelo alura
+
 -Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos 
 
 
