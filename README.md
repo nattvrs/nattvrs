@@ -2,9 +2,9 @@
 
 Oie, meu nome é Natielle Vitória
 
--Estou estudando pelo alura
+- Estou estudando pelo alura
 
--Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos 
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos 
 
 
 ### Você pode entrar em contato comigo 📬
