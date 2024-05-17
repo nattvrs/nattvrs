@@ -2,7 +2,7 @@
 
   Oie, meu nome é Natielle Vitória
 
-- Estou estudando pelo alura
+- Estou estudando pelo [Alura](https://www.alura.com.br)
 
 - Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos 
 
@@ -12,3 +12,6 @@
 📫 nah.vit.17@gmail.com
 
 📱  @natt.vrs 
+
+
+![](https://tenor.com/bTj2u.gif)
