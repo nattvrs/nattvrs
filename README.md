@@ -14,4 +14,5 @@
 📱  @natt.vrs 
 
 
-![](https://tenor.com/bTj2u.gif)
+![](https://media1.tenor.com/m/hcY6CN5Jf_EAAAAC/vai-corinthians-timao.gif)
+
