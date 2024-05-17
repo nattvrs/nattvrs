@@ -1,6 +1,6 @@
 ### _Boas vindas ao meu perfil_ 💙
 
-  Oie, meu nome é Natielle Vitória
+  Oie, prazer eu sou a Nat
 
 - Estou estudando pelo [Alura](https://www.alura.com.br)
 
