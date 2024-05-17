@@ -7,7 +7,7 @@
 - Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos 
 
 
-### Você pode entrar em contato comigo 📬
+### _Você pode entrar em contato comigo_ 📬
 
 📫 nah.vit.17@gmail.com
 
